@@ -130,8 +130,3 @@ The ARIMA model provides a more accurate forecast of electricity usage compared 
 - scikit-learn
 - statsmodels
 
-## How to Run
-
-1. Clone the repository.
-2. Install the required libraries.
-3. Run the Jupyter notebook or Python script to see the results.
