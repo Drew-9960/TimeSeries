@@ -1,4 +1,4 @@
-# Time Series Forecasting Project README
+# Time Series Forecasting Project
 
 ## Project Overview
 
